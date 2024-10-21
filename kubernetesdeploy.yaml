@@ -4,7 +4,7 @@ metadata:
   name: bankapp-nisary-deploy
   #namespace: dev
   labels:
-    app: bankapp-nisary-app
+    app: bankapp-nisary-app-lbl
 spec:
   replicas: 3
   selector:
