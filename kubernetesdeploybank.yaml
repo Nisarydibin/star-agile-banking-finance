@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: bankapp-nisary-container
-        image: nisary123/bankingfinance-img
+        image: nisary123/bankingfinance-img:latest
         ports:
         - containerPort: 8082
 ---
